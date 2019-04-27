@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #665c84;
+  background-color: #fdf4df;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3.25rem;
+  font-family: 'Satisfy', cursive;
+  color: #ff7657;
+  margin: 50px auto 0 auto;
+  line-height: .5
+}
+
+h2 {
+  font-size: 2.25rem;
+  font-family: 'Itim', cursive;
+  color: #00b7a8;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Itim', cursive;
+  font-weight: normal;
+}
+
+span {
+  color: #665c84;
+  font-weight: normal;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  margin: 50px auto;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  color: #665c84;
+}
+a:hover{color: #fdf4df;
+
+}
+
+.top {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.skill-image1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  padding: 25px 0 5px;
+  background-color: #ff7657;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 0 1px 3px #666666;
+  -moz-box-shadow: 0 1px 3px #666666;
+  box-shadow: 0 1px 3px #666666;
+  font-family: 'Roboto', sans-serif;
+  color: #fdf4df;
+  font-size: 20px;
+  background: #ff7657;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00b7a8;
+  text-decoration: none;
+}
+
+.copywrite {
+  color: #fdf4df;
+  font-size: .75rem;
+  padding-top: 20px;
+
+}
